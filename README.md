@@ -19,7 +19,7 @@ Interactive Interface – Dynamic features using JavaScript for better user expe
 Layer           	Technology
 
 
-Frontend	        HTML5, CSS3, JavaScript (ES6+)
+Frontend	        React 
 
 
 Backend  	        Not used (static web pages)
