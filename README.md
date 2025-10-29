@@ -1,7 +1,7 @@
 
 # ✔Eventrix
 # 📖 ABOUT THE PROJECT
-Eventrix is a web-based application designed to simplify the planning, booking, and management of events. Built using HTML, CSS and JavaScript this platform allows organizers to create and manage events while providing users with an intuitive interface to browse, register, and stay updated.
+Eventrix is a web-based application designed to simplify the planning, booking, and management of events. Built using React this platform allows organizers to create and manage events while providing users with an intuitive interface to browse, register, and stay updated.
 
 # 🚀 FEATURES
 Create & Manage Events – Organizers can easily create and update event details.
